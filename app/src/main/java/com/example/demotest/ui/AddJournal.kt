@@ -40,6 +40,7 @@ class AddJournal : AppCompatActivity() {
 
                 lifecycleScope.launch {
                     viewModel.addEntry(JournalEntryEntity(date = dateString, time = timeString, mood = radionButton.text.toString(), notes = binding.noteET.text.toString()))
+                    finish()
                 }
             }
         }

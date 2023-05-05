@@ -34,4 +34,5 @@ class AddJournalViewModelTest {
         // Verify that insertJournalEntry() is called with the expected argument
         verify(repository).insertJournalEntry(entry)
     }
+
 }
