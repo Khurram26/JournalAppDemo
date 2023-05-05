@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoTest</string>
+    <string name="adding_journal">Adding Journal</string>
+    <string name="how_do_you_feel_right_now">How do you feel right now?</string>
+    <string name="happy">Happy</string>
+    <string name="neutral">Neutral</string>
+    <string name="sad">Sad</string>
+    <string name="write_here_about_your_mood">Write here about your mood…</string>
+    <string name="save">Save</string>
+</resources>

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "mood": "HAPPY",
+    "notes": "Had a great day at the park with friends",
+    "date": "2022/05/01",
+    "time": "15:30"
+  },
+  {
+    "id": 2,
+    "mood": "SAD",
+    "notes": "Feeling down after a tough meeting at work",
+    "date": "2022/06/02",
+    "time": "09:45"
+  },
+  {
+    "id": 3,
+    "mood": "NEUTRAL",
+    "notes": "Just an average day",
+    "date": "2022/05/03",
+    "time": "12:15"
+  },
+  {
+    "id": 4,
+    "mood": "SAD",
+    "notes": "Worried about an upcoming exam",
+    "date": "2022/05/04",
+    "time": "18:00"
+  },
+  {
+    "id": 5,
+    "mood": "HAPPY",
+    "notes": "Helloo",
+    "date": "2023/05/03",
+    "time": "10:15"
+  },
+  {
+    "id": 6,
+    "mood": "SAD",
+    "notes": "Spent the day reading and relaxing",
+    "date": "2022/06/05",
+    "time": "21:30"
+  }
+]
